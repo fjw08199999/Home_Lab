@@ -2,10 +2,10 @@ version: "3"
 name: "jupyter_editor"
 services:
   jupyter:
-    container_name: "DataScience"
-    image: registry.aibdt.com.tw/developer/jupyterhub_playground
+    container_name: "jupyter-all-spark-notebook"
+    image: jupyter/all-spark-notebook
     restart: always
     ports:
-      - "10001:8000"
+      - "10000:8000"
     volumes:
-      - ./work:/home/aibdt/work
+      - ./work:/home/fred/work
