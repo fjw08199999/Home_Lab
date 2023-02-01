@@ -1,7 +1,7 @@
 # Home_Lab
 Home Lab
 
-[Hone lab](https://wiggly-echo-ef6.notion.site/Home-lab-ebbd05a6288b4a38927dac5b249e958a)
+[Home lab](https://wiggly-echo-ef6.notion.site/Home-lab-ebbd05a6288b4a38927dac5b249e958a)
 
 ### 架構圖
 
