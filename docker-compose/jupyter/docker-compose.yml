@@ -6,6 +6,6 @@ services:
     image: jupyter/all-spark-notebook
     restart: always
     ports:
-      - "10000:8000"
+      - "80:8000"
     volumes:
-      - ./work:/home/fred/work
+      - ./jupyterwork:/home/work
